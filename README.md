@@ -15,6 +15,8 @@
 
 ## 🖼️ 实机演示与截图
 
+<video src="image/实机演示.mp4" controls="controls" width="100%">您的浏览器不支持 video 标签。</video>
+
 | 闭关修炼 | 秘境历练 | 坊市交易 |
 | :---: | :---: | :---: |
 | ![闭关修炼](image/cultivation.png) | ![秘境历练](image/explore.png) | ![坊市交易](image/market.png) |
