@@ -15,14 +15,13 @@
 
 ## 🖼️ 实机演示与截图
 
-<!-- 请在此处替换为实际的图片链接或相对路径 -->
 | 闭关修炼 | 秘境历练 | 坊市交易 |
 | :---: | :---: | :---: |
-| ![闭关修炼](docs/images/demo_meditation.png) | ![秘境历练](docs/images/demo_explore.png) | ![坊市交易](docs/images/demo_market.png) |
+| ![闭关修炼](image/cultivation.png) | ![秘境历练](image/explore.png) | ![坊市交易](image/market.png) |
 
-| 宗门系统 | 道侣结缘 | 登顶最高峰 |
-| :---: | :---: | :---: |
-| ![宗门系统](docs/images/demo_sect.png) | ![道侣结缘](docs/images/demo_partner.png) | ![登顶最高峰](docs/images/demo_peak.png) |
+| 道侣结缘 | 系统设置 |
+| :---: | :---: |
+| ![道侣结缘](image/relationship.png) | ![系统设置](image/system.png) |
 
 ## 🚀 如何运行
 直接安装exe即可运行;
@@ -32,4 +31,4 @@
 
 | 支付宝 | 微信 |
 | :---: | :---: |
-| ![支付宝](docs/images/zhifubao.png) | ![微信](docs/images/weixin.png) |
+| ![支付宝](image/zhifubao.jpg) | ![微信](image/weixin.png) |
